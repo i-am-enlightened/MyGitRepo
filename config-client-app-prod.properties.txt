@@ -1,0 +1,4 @@
+# put application+profile-specific config here
+(app name: client-config-app) (profile name:prod)
+some.property=value
+some.other.property=value
